@@ -1,0 +1,20 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #b8b8b8];
+}
+
+.Box {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  background-color: #ebebeb;
+ 
+}
+.Box button {
+  background-color: #c10606;
+  color: white;
+  border: none;
+  padding: 5px;
+  cursor: pointer;
+}
